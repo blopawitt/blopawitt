@@ -6,7 +6,6 @@ Software Developer
 
 Im passionated about technology, music and video games. 🧑‍💻🎹🎮
 
-* 🌍  I'm based in São Paulo, Brazil
 
 ### Skills
 
