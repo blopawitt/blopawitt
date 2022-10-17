@@ -4,9 +4,9 @@ Hi, im Pablo but you can call me "Pablito". :)
 Software Developer / Music Enthusiast / Life Explorer
 ------------------
 
-Im passionated about many things and I try to take the most of this experience called "life".
-0.1% better everyday.
-Who you are >>> What you do.
+- Im passionated about many things and I try to take the most out of this experience called "life".
+- 0.1% better everyday.
+- Who you ***are** >>> What you ***do***.
 
 ### Skills
 
