@@ -1,4 +1,4 @@
-Hi, im Pablo but you can call me "Pablito". :)
+Hi, I'm Pablo, but you can call me "Pablito". :)
 =======================
 
 Software Developer / Music Enthusiast / Life Explorer
