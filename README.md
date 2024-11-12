@@ -5,19 +5,8 @@
 I’m passionate about exploring a variety of interests and making the most of this crazy adventure called "life." 
 
 - **Striving to improve** 0.1% every day.  
-- **Who you are** >>> **What you do**. 
-
-### 🛠️ Skills
-
-- [Python](https://www.python.org/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Java](https://www.oracle.com/java/)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- [CSS3](https://www.w3.org/TR/CSS/#css)
-
-### 🌍 Connect with me
-
-- [GitHub](https://github.com/blopawitt)
+- **Who you are** >>> **What you do**.
+  
 - [Instagram](http://www.instagram.com/pablowitt)
 - [LinkedIn](https://www.linkedin.com/in/pablo-witt-021bab208/)
 
