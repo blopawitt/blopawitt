@@ -1,4 +1,4 @@
-## Hi, I'm Pablo (but you can call me "Pablito") 👋
+## Hello, stranger 👋
 
 ### Software Developer | Music Enthusiast | Life Explorer
 
