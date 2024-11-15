@@ -1,4 +1,4 @@
-## Hello, stranger 👋
+## Hello, stranger 
 
 ### Software Developer | Music Enthusiast | Life Explorer
 
