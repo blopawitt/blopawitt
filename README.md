@@ -1,5 +1,3 @@
-## Hello, stranger 
-
 ### Software Developer | Music Enthusiast | Life Explorer
 
 I’m passionate about exploring a variety of interests and making the most of this crazy adventure called "life."
