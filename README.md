@@ -1,6 +1,5 @@
 ### *Software Developer* | *Music Enthusiast* | *Life Explorer*
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=blopawitt&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blopawitt&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&hide_border=true&layout=compact&card_width=470)
 
